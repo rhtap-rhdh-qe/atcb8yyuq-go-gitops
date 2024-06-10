@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: atcb8yyuq-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/atcb8yyuq-go-gitops
